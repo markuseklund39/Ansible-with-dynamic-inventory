@@ -68,11 +68,11 @@ ssh-copy-id <user>@<vm-ip>
 
 ## 3. Configure Ansible
 
-Create the Ansible configuration file at `~/ansible/ansible.cfg`.
+Create the Ansible configuration file at [~/ansible/ansible.cfg](https://github.com/markuseklund39/Ansible-with-dynamic-inventory/blob/main/ansible.cfg).
 
 ## 4. Nmap inventory plugin
 
-Configure the Nmap inventory plugin in `~/ansible/inventory/nmap.yml`.
+Configure the Nmap inventory plugin in [~/ansible/inventory/nmap.yml](https://github.com/markuseklund39/Ansible-with-dynamic-inventory/blob/main/nmap.yml).
 
 Test the inventory and connectivity:
 
